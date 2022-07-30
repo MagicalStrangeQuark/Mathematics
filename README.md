@@ -21,6 +21,19 @@
 
 <h4 align="center">Algebra & Combinatorics</h4>
 
+<h5 align="center">Derivative Properties</h6>
+
+| Property | Rule | Derivative Rules |
+|---|---|---|---|---|
+| Sum Rule | $f(x) = u(x) + v(x)$ | $f´(x) = u´(x) + v´(x)$ |
+| Difference Rule | $f(x) = u(x) - v(x)$ | $f´(x) = u´(x) - v´(x)$ |
+| Product Rule | $f(x) = u(x) . x(x)$ | $f´(x) = u(x).v´(x) + u´(x).v(x)$ |
+| Quotient Rule | $f(x) = \frac{u(x)}{v(x)}$ | $f´(x) = \frac{u´(x).v(x) - u(x).v´(x)}{[v(x)]^2}$ |
+
+<h5 align="center">Links</h6>
+
+😻 <a href="https://tutorial.math.lamar.edu/classes/calci/DerivativeProofs.aspx">Proof Of Various Derivative Properties</a>
+
 <h4 align="center">Analysis</h4>
 
 <h4 align="center">Biological Modeling</h4>
