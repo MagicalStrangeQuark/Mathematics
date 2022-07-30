@@ -21,7 +21,7 @@
 
 <h4 align="center">Algebra & Combinatorics</h4>
 
-<h5 align="center">Derivative Properties</h6>
+<h5 align="center">Derivative Properties</h5>
 
 | Property | Rule | Derivative Rules |
 |---|---|---|---|---|
