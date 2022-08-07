@@ -39,6 +39,14 @@
 
 📌 $f(x) = \frac{u(x)}{v(x)}$ ➜ $f´(x) = \frac{u´(x).v(x) - u(x).v´(x)}{[v(x)]^2}$ 
 
+<h6>Chain Rule</h6>
+
+A method for finding the __derivative__ of a __composition__ of __functions__.
+
+The formula is $\frac{d}{dx}f[g(x)]=f'[g(x)]g'(x)$.
+
+Another form of the chain rule is $\frac{dy}{dx}=\frac{dy}{du}\frac{du}{dx}$.
+
 <h5 align="center">External Links</h6>
 
 😻 <a href="https://tutorial.math.lamar.edu/classes/calci/DerivativeProofs.aspx">Proof Of Various Derivative Properties</a>
