@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://raw.githubusercontent.com/MagicalStrangeQuark/MagicalStrangeQuark/master/assets/pi.svg" width="400"></p>
 
-<p align="center">Mathematics Study</p>
+<p align="center">Mathematical Concepts</p>
 
 <p align="center">
     <a href="#">
