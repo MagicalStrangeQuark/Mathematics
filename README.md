@@ -73,7 +73,7 @@ Another form of the chain rule is $\frac{dy}{dx}=\frac{dy}{du}\frac{du}{dx}$.
 
 <h6>Variância</h6>
 
-Para qualquer conjunto de $n$ observações $x_1, x_2, x_3, ..., x_n$ com média $\mu$, variância $ = \sigma^2 = \frac{[(x_1 - \mu)^2 + (x_2 - \mu)^2 + (x_3 - \mu)^2 + ... + (x_n - \mu)^2]}{n}$
+Para qualquer conjunto de $n$ observações $x_1, x_2, x_3, ..., x_n$ com média $\mu$, variância $= \sigma^2 = \frac{[(x_1 - \mu)^2 + (x_2 - \mu)^2 + (x_3 - \mu)^2 + ... + (x_n - \mu)^2]}{n}$
 
 <h6>Desvio Padrão</h6>
 
